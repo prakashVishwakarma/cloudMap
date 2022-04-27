@@ -1,0 +1,1258 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.center {
+    display: flex;
+    width: 100vw;
+    /* height: 120vh; */
+    /* border: 2px solid black; */
+}
+
+.cloud {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 15vmax;
+    left: 40vmax;
+    width: 20vmax;
+}
+
+.line1 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 12vmax;
+    left: 56vmax;
+    width: 19vmax;
+
+}
+
+.Reporting {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 8vmax;
+    left: 72vmax;
+    width: 8vmax;
+}
+
+.Real_time {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 16vmax;
+    left: 72vmax;
+    width: 8vmax;
+
+}
+
+.First_customer {
+    /* border: 2px solid rgb(128, 10, 10); */
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 19vmax;
+    left: 68vmax;
+    width: 4vmax;
+
+}
+
+.Survey {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 24vmax;
+    left: 72vmax;
+    width: 8vmax;
+
+}
+
+.Customer_Experience {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 31vmax;
+    left: 72vmax;
+    width: 8vmax;
+
+}
+
+.shield {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 24vmax;
+    left: 46vmax;
+    width: 6vmax;
+
+}
+
+.circle {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 30vmax;
+    left: 50.5vmax;
+    width: 3vmax;
+
+}
+
+.line_2 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 27vmax;
+    left: 48vmax;
+    width: 16vmax;
+
+}
+
+.House1 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 33vmax;
+    left: 60vmax;
+    width: 13vmax;
+
+}
+
+.House1_h5 {
+    position: absolute;
+    top: 35vmax;
+    left: 67vmax;
+    width: 13vmax;
+    font-size: 1vmax;
+}
+
+.office_building {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 32vmax;
+    left: 44vmax;
+    width: 13vmax;
+
+}
+
+.line_3 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 35vmax;
+    left: 43vmax;
+    width: 22vmax;
+
+}
+
+.piston {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 34.5vmax;
+    left: 46vmax;
+    width: 15vmax;
+}
+
+.arrows_1 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 30vmax;
+    left: 50.6vmax;
+    width: 3vmax;
+
+}
+
+.line_4 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 11.5vmax;
+    left: 36.6vmax;
+    width: 24vmax;
+    height: 12vmax;
+
+}
+
+.Conversational {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 11vmax;
+    left: 46.5vmax;
+    width: 5vmax;
+
+}
+
+.NLP {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 12vmax;
+    left: 49vmax;
+    width: 4vmax;
+
+}
+
+.Contextual {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 14vmax;
+    left: 51.4vmax;
+    width: 4vmax;
+}
+
+.RPA {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 15vmax;
+    left: 53.4vmax;
+    width: 4vmax;
+}
+
+.Sentiment {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 16vmax;
+    left: 55.4vmax;
+    width: 4vmax;
+
+}
+
+.recognition {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 17vmax;
+    left: 57.4vmax;
+    width: 4vmax;
+
+}
+
+.voice {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 12vmax;
+    left: 44vmax;
+    width: 5vmax;
+}
+
+.Voice_1 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 14vmax;
+    left: 42vmax;
+    width: 5vmax;
+}
+
+.Visual {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 15vmax;
+    left: 39.5vmax;
+    width: 4vmax;
+}
+
+.Chatbot {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 17vmax;
+    left: 37vmax;
+    width: 4vmax;
+}
+
+.line_5 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 26.5vmax;
+    left: 27vmax;
+    width: 19.5vmax;
+}
+
+.line_6 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 18vmax;
+    left: 30vmax;
+    width: 14vmax;
+}
+
+.omni_channel_bg {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 8vmax;
+    left: 15vmax;
+    width: 20vmax;
+}
+
+.girl {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 19vmax;
+    left: 20vmax;
+    width: 12vmax;
+}
+
+.voice_2 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 10vmax;
+    left: 16vmax;
+    width: 6vmax;
+}
+
+.social_media {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 10vmax;
+    left: 16vmax;
+    width: 6vmax;
+}
+
+
+.sms {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 10vmax;
+    left: 16vmax;
+    width: 6vmax;
+}
+
+
+.voice_active_2 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 10vmax;
+    left: 16vmax;
+    width: 6vmax;
+    z-index: -1;
+}
+
+
+.social_media_active_1 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 14vmax;
+    left: 22vmax;
+    width: 6vmax;
+    z-index: -1;
+}
+
+
+.sms_active_3 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 14vmax;
+    left: 16vmax;
+    width: 6vmax;
+    z-index: -1;
+}
+
+
+.email_active_2 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 10vmax;
+    left: 22vmax;
+    width: 6vmax;
+    z-index: -1;
+}
+
+
+.white_mail_2 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 10vmax;
+    left: 28vmax;
+    width: 6vmax;
+    z-index: -1;
+}
+
+.chat_active_2 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 14vmax;
+    left: 28vmax;
+    width: 6vmax;
+    z-index: -1;
+}
+
+.sms {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 14vmax;
+    left: 16vmax;
+    width: 6vmax;
+}
+
+.social_media {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 14vmax;
+    left: 22vmax;
+    width: 6vmax;
+}
+
+.email {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 10vmax;
+    left: 22vmax;
+    width: 6vmax;
+}
+
+.chat {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 10vmax;
+    left: 22vmax;
+    width: 6vmax;
+}
+
+.white_mail {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 10vmax;
+    left: 22vmax;
+    width: 6vmax;
+}
+
+.white_mail {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 10vmax;
+    left: 28vmax;
+    width: 6vmax;
+}
+
+.chat {
+    /* border: 2px solid rgb(128, 10, 10); */
+    position: absolute;
+    top: 14vmax;
+    left: 28vmax;
+    width: 6vmax;
+}
+
+.Omnichannel_h1 {
+    /* border: 2px solid rgb(128, 10, 10); */
+    /* border: 2px solid rgb(128, 10, 10);  */
+    position: absolute;
+    top: 9vmax;
+    left: 20vmax;
+    font-size: 1vmax;
+}
+
+.channel {
+    background: #1d4f91;
+    color: white;
+    position: absolute;
+    top: 5vmax;
+    left: 16vmax;
+    font-size: 0.9vmax;
+    width: 18vmax;
+    height: 2vmax;
+    text-align: center;
+    border-radius: 6px;
+}
+
+.channel>p {
+    margin-top: .5vmax;
+}
+
+.impowered {
+    margin-top: 3vmax;
+    position: absolute;
+    width: 100%;
+}
+
+.impowered>h1 {
+    text-align: center;
+    font-size: 1.5vmax;
+}
+
+.piston_h5 {
+    position: absolute;
+    top: 39vmax;
+    left: 58vmax;
+    width: 13vmax;
+    font-size: 0.8vmax;
+}
+
+
+
+
+
+/* -----tooltip--------------- */
+
+/* .tooltip_Reporting :hover .tooltip_Reporting_p {
+    visibility: visible;
+    opacity: 1;
+    border: 2px solid rgb(128, 10, 10);
+
+
+}
+
+.tooltip_Reporting_p {
+    visibility: hidden;
+    opacity: 0;
+    border: 2px solid rgb(10, 18, 128);
+
+} */
+
+/* .Reporting_tooltip {
+    border: 2px solid black;
+
+}
+.Reporting_tooltip .Reporting_p {
+    opacity: 1;
+
+}
+
+.Reporting_tooltip :hover .Reporting_p {
+    opacity: 1;
+
+} */
+
+/* .tooltiptext:before {
+    z-index: -1;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+
+.tooltip .tooltiptext {
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 8vmax;
+    left: 55vmax;
+    width: 15vmax;
+    /* border: 1px solid black; */
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224, 224, 224);
+    z-index: 1;
+
+}
+
+/* .Real_time_tooltiptext:before {
+    z-index: -5444;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.Real_time_tooltiptext {
+    z-index: 6;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 15vmax;
+    left: 55vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224, 224, 224);
+
+}
+
+/* .shield_tooltiptext:before {
+    z-index: -5444;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.shield_tooltiptext {
+    z-index: 2;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 24vmax;
+    left: 53vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224, 224, 224);
+
+}
+
+/* .Survey_tooltiptext:before {
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.Survey_tooltiptext {
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 22vmax;
+    left: 55vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224, 224, 224);
+
+}
+
+/* .Customer_Experience_tooltiptext:before {
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.Customer_Experience_tooltiptext {
+    z-index: 2;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 29vmax;
+    left: 55vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224, 224, 224);
+
+}
+
+/* .piston_tooltiptext:before {
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.piston_tooltiptext {
+    z-index: 2;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 36vmax;
+    left: 66vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224 224 224);
+}
+
+/* .Automation_tooltiptext:before {
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.Automation_tooltiptext {
+    z-index: 2;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 39vmax;
+    left: 60vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224 224 224);
+}
+
+/* .Unified_tooltiptext:before {
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.Unified_tooltiptext {
+    z-index: 2;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 41vmax;
+    left: 58vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224 224 224);
+}
+
+/* .Biometric_tooltiptext:before {
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.Biometric_tooltiptext {
+    z-index: 2;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 11vmax;
+    left: 48vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224 224 224);
+}
+
+/* .Voice_tooltiptext:before {
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.Voice_tooltiptext {
+    z-index: 2;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 13vmax;
+    left: 46vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224 224 224);
+}
+
+/* .Visual_tooltiptext:before {
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.Visual_tooltiptext {
+    z-index: 6;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 16vmax;
+    left: 43vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224 224 224);
+}
+
+/* .Chatbot_tooltiptext:before {
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.Chatbot_tooltiptext {
+    z-index: 6;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 18vmax;
+    left: 41vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224 224 224);
+}
+/* 
+.Associates_tooltiptext:before {
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.Associates_tooltiptext {
+    z-index: 2;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 40vmax;
+    left: 37vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224 224 224);
+}
+
+
+/* .voice_2_tooltiptext:before {
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.voice_2_tooltiptext {
+    z-index: 2;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 2vmax;
+    left: 11vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224 224 224);
+}
+
+
+/* .social_media_tooltiptext:before {
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.social_media_tooltiptext {
+    z-index: 2;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 2vmax;
+    left: 17vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224 224 224);
+}
+
+
+/* .sms_tooltiptext:before {
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.sms_tooltiptext {
+    z-index: 2;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 2vmax;
+    left: 11vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224 224 224);
+}
+
+
+/* .email_tooltiptext:before {
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.email_tooltiptext {
+    z-index: 2;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 2vmax;
+    left: 18vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224 224 224);
+}
+
+
+/* .white_mail_tooltiptext:before {
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.white_mail_tooltiptext {
+    z-index: 2;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 2vmax;
+    left: 18vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224 224 224);
+}
+
+
+/* .white_mail_tooltiptext:before {
+    z-index: -1;
+    border: 1px solid black;
+    position: absolute;
+    content: "";
+    height: 1vmax;
+    width: 1vmax;
+    background: rgb(255, 255, 255);
+    left: 99%;
+    bottom: 2vmax;
+    transform: translateX(-50%) rotate(45deg);
+} */
+
+.white_mail_tooltiptext {
+    z-index: 2;
+    padding: 0.5vmax;
+    font-size: 1vmax;
+    visibility: hidden;
+    position: absolute;
+    top: 2vmax;
+    left: 24vmax;
+    width: 15vmax;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 14px 10px 1px rgb(224 224 224);
+}
+
+.Automation_h5 {
+    position: absolute;
+    top: 41vmax;
+    left: 55vmax;
+    width: 13vmax;
+    font-size: 0.8vmax;
+}
+
+.Unified_h5 {
+    position: absolute;
+    top: 43vmax;
+    left: 51.6vmax;
+    width: 13vmax;
+    font-size: 0.8vmax;
+}
+
+.Biometric_h5 {
+    position: absolute;
+    top: 12vmax;
+    left: 36vmax;
+    width: 13vmax;
+    font-size: 0.8vmax;
+}
+
+.Conversianel_h5 {
+    position: absolute;
+    top: 11vmax;
+    left: 49vmax;
+    width: 13vmax;
+    font-size: 0.8vmax;
+}
+
+.Voice_h5 {
+    position: absolute;
+    top: 14vmax;
+    left: 36vmax;
+    width: 13vmax;
+    font-size: 0.8vmax;
+}
+
+.NLP_h5 {
+    position: absolute;
+    top: 13vmax;
+    left: 52vmax;
+    width: 13vmax;
+    font-size: 0.8vmax;
+}
+
+
+.Visual_h5 {
+    position: absolute;
+    top: 16vmax;
+    left: 35vmax;
+    width: 13vmax;
+    font-size: 0.8vmax;
+}
+
+.Contextual_h5 {
+    position: absolute;
+    top: 14vmax;
+    left: 54vmax;
+    width: 13vmax;
+    font-size: 0.8vmax;
+}
+
+.Chatbot_h5 {
+    position: absolute;
+    top: 19vmax;
+    left: 34vmax;
+    width: 13vmax;
+    font-size: 0.8vmax;
+    z-index: 5;
+
+}
+
+.RPA_h5 {
+    position: absolute;
+    top: 16vmax;
+    left: 57.5vmax;
+    width: 13vmax;
+    font-size: 0.8vmax;
+    z-index: 5;
+
+}
+
+.Sentiment_h5 {
+    position: absolute;
+    top: 18vmax;
+    left: 60vmax;
+    width: 13vmax;
+    font-size: 0.8vmax;
+    z-index: 5;
+
+}
+
+.Entelligent_51 {
+    position: absolute;
+    top: 21vmax;
+    left: 42vmax;
+    width: 13vmax;
+    font-size: 1vmax;
+    z-index: 5;
+    text-align: center;
+
+}
+
+.Associates_h5 {
+    position: absolute;
+    top: 36vmax;
+    left: 41vmax;
+    width: 13vmax;
+    font-size: 0.8vmax;
+}
+
+
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .shield_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .Real_time_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .Survey_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .piston_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .Automation_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .Unified_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .Biometric_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .Voice_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .Visual_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .Chatbot_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .Associates_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .Customer_Experience_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .voice_2_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .social_media_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .sms_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .email_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .white_mail_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .white_mail_tooltiptext {
+    visibility: visible;
+}
+
+.tooltip:hover .voice_active_2 {
+    z-index: 1;
+}
+
+.tooltip:hover .social_media_active_1 {
+    z-index: 1;
+}
+
+.tooltip:hover .sms_active_3 {
+    z-index: 1;
+}
+
+.tooltip:hover .email_active_2 {
+    z-index: 1;
+}
+
+.tooltip:hover .chat_active_2 {
+    z-index: 1;
+}
+
+.tooltip:hover .white_mail_2 {
+    z-index: 1;
+}
